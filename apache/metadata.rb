@@ -1,5 +1,5 @@
-maintainer       "YOUR_COMPANY_NAME"
-maintainer_email "YOUR_EMAIL"
+maintainer       "Inspiredtechies"
+maintainer_email "sahil@inspiredtechies.com"
 license          "All rights reserved"
 description      "various apache server related resource provides (LWRP)"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
